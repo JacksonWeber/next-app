@@ -11,4 +11,4 @@
    npm run dev
    ```
 
-3. Go to localhost:3000 and make some requests by switching route to /a and /b
+3. Make some requests by going to `localhost:3000/a` and `localhost:3000/b`. Then go to Azure portal - your Application Insights resource page to review data.
